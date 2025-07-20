@@ -37,7 +37,7 @@ function Hero() {
             community initiatives to empower retail traders and investors.
           </p>
           <p>
-            <a className="anchorTag" href="">
+            <a className="anchorTag" >
               Rainmatter
             </a>
             , our fintech fund and incubator, has invested in several fintech
@@ -46,15 +46,15 @@ function Hero() {
           <p>
             And yet, we are always up to something new every day. Catch up on
             the latest updates on our{" "}
-            <a className="anchorTag" href="">
+            <a className="anchorTag" >
               blog
             </a>{" "}
             or see what the media is{" "}
-            <a className="anchorTag" href="">
+            <a className="anchorTag" >
               saying about us
             </a>{" "}
             or learn more about our business and product{" "}
-            <a className="anchorTag" href="">
+            <a className="anchorTag" >
               philosophies
             </a>
             .
