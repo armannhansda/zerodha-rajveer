@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.allBtn {
+  width: 20%;
+  margin: 0 auto;
+  background-color: #387ed1;
+  color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0) !important;
+  border-radius: 3px;
+}
+
+.allBtn:hover {
+  background-color: #222;
+  color: #fff;
+}
+
+.footerPara {
+  font-size: 0.7em;
+  opacity: 0.7;
+}
+
+.anchorTag {
+  text-decoration: none;
+  color: #387ed1;
+}
+
+.anchorTag:hover {
+  color: #222;
+}
+
+.anchorTagMain {
+  text-decoration: none;
+  color: #666;
+  font-weight: 500;
+  font-size: 90%;
+  opacity: 0.8;
+}
+
+.anchorTagMain:hover {
+  color: #387ed1;
+  opacity: 1;
+}
+
+.footer .linksInRow a {
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.founderImg {
+  width: 60%;
+  border-radius: 50%;
+}
+
+.universeSubPara {
+  font-size: 0.8em;
+  font-weight: 500;
+  opacity: 0.7;
+}
+
+.supportSearch {
+  line-height: 2.7em;
+  border-radius: 3px;
+}
+
+.underline-offset {
+  color: #fff;
+  font-size: 1.1em;
+  text-decoration: underline;
+  text-underline-offset: 7px;
+  padding-right: 2em;
+}
+
+.TicketList {
+  font-size: 0.9em;
+  line-height: 2.3em;
+}
+
+.TicketList li a {
+  padding-left: 1.5em;
+  text-decoration: none;
+  color: #387ed1;
+  font-size: 1.05em;
+}
+
+.TicketList li a:hover {
+  color:black ;
+  opacity: 0.7;
+}

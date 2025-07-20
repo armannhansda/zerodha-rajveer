@@ -1,0 +1,25 @@
+# Ignore all node_modules folders (frontend, backend, dashboard)
+**/node_modules/
+
+# Build and dist folders (React/Vite/Webpack/etc.)
+**/build/
+**/dist/
+
+# Logs
+*.log
+
+# dotenv environment files
+**/.env
+
+# System files (Windows & OneDrive)
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
