@@ -17,22 +17,22 @@ function Hero() {
             />
           </form>
           <div className="my-3 lh-lg d-flex flex-wrap">
-            <a className="underline-offset" href="">
+            <a className="underline-offset" href="#track-account">
               Track account opening
             </a>
-            <a className="underline-offset" href="">
+            <a className="underline-offset" href="#track-segment">
               Track segment activation
             </a>
-            <a className="underline-offset" href="">
+            <a className="underline-offset" href="#intraday-margins">
               Intraday margins
             </a>
-            <a className="underline-offset" href="">
+            <a className="underline-offset" href="#kite-manual">
               Kite user manual
             </a>
           </div>
         </div>
         <div className="col-5 text-end">
-          <a className="underline-offset" href="">
+          <a className="underline-offset" href="#track-tickets">
             Track tickets
           </a>
           <h1 className="text-start fs-5 mt-5 p-3">Featured</h1>
