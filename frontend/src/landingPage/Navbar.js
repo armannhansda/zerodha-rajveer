@@ -33,6 +33,7 @@ function Navbar() {
                 <li class="nav-item px-3">
                   <a
                     class="nav-link anchorTagMain"
+                    href="#logout"
                     aria-current="page"
                     onClick={(e) => {
                       e.preventDefault();

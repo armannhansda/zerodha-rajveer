@@ -11,7 +11,7 @@ function Team() {
           <img
             className="founderImg"
             src="media/images/nithinKamath.jpg"
-            alt="Founder photo"
+            alt="Nithin Kamath"
           />
           <br />
           <br />
@@ -31,15 +31,15 @@ function Team() {
           <p>Playing basketball is his zen.</p>
           <p>
             Connect on{" "}
-            <a href="" className="anchorTag">
+            <a href="https://nithinkamath.me" className="anchorTag">
               Homepage
             </a>{" "}
             /{" "}
-            <a href="" className="anchorTag">
+            <a href="https://tradingqna.com" className="anchorTag">
               TradingQnA
             </a>{" "}
             /{" "}
-            <a href="" className="anchorTag">
+            <a href="https://twitter.com/nithin0dha" className="anchorTag">
               Twitter
             </a>
           </p>
